@@ -1,0 +1,100 @@
+body{
+    background-color:rgb(187, 187, 187);
+    color:black;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    font-size:16px;
+    font-weight: normal;
+
+    line-height:1.6em;
+
+}
+
+
+a:hover{
+    color: red;
+}
+
+
+
+#homeHeader{
+    font-size: 20px;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1;
+    
+}
+#homeHeader a{
+    color: black;
+    text-decoration: none;
+}
+
+
+#pageSelect{
+    display: flex;
+    margin: auto;
+    width: 1000px;
+    justify-content: space-around;
+    margin-bottom: 1.8em;
+    
+    
+}
+.container{
+    width:1000px;
+    margin:auto;
+}
+
+.container h4{
+    font-size: 14px;
+    font-weight: 2;
+    margin-top: -1em;
+}
+
+.post{
+    padding: 5px;
+    padding-top: 3px;
+    margin:10px;
+    margin-bottom: 1.5em;
+    padding-bottom: 10px;
+    background-color:rgb(177, 174, 174);
+    text-align: left;
+    
+    
+}
+.post img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    margin-bottom: 1em;
+}
+
+.post video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+    margin-bottom: .5em;
+}
+
+.box-1{
+    padding-bottom: 10px;
+    text-align: center;
+    margin: auto;
+    
+}
+.box-1 a{
+    font-size: 22px;
+    text-decoration: none;
+}
+.post iframe{
+    display: block;
+    margin: auto;
+    width: 40em;
+    height: 22.5em;
+}
+.box-2 p{
+    margin-left: 30px;
+}
+
+

@@ -1,0 +1,88 @@
+/*{
+    margin:0;
+    padding:0;
+}
+*/
+body{
+    background-color:rgb(187, 187, 187);
+    color:black;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+    font-size:16px;
+    font-weight: normal;
+
+    line-height:1.6em;
+
+}
+
+
+a:hover{
+    color: red;
+}
+
+
+
+#homeHeader{
+    font-size: 20px;
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#pageSelect{
+    display: flex;
+    margin: auto;
+    width: 1000px;
+    justify-content: space-around;
+    
+    
+}
+
+.container{
+    width:1000px;
+    margin:auto;
+
+}
+
+.box-1{
+    background-color:rgb(177, 174, 174);
+    /*8border: 3px red solid;*/
+    padding: 5px;
+    padding-top: 7px;
+    margin:10px;
+    padding-bottom: 25px;
+
+}
+
+.box-1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+.post{
+    background-color:rgb(177, 174, 174);
+    padding: 5px;
+    padding-top: 7px;
+    margin:10px;
+    padding-bottom: 15px;
+    
+    
+}
+.post h1{
+    font-family: 'Trebuchet MS';
+}
+.post img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40em;
+   
+}
+.post iframe{
+    display: block;
+    margin: auto;
+    width: 40em;
+    height: 22.5em;
+}
+
