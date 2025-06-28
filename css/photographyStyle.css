@@ -52,6 +52,7 @@ a:hover{
 h2, h3{
   margin-top: 1.8em;
   display: inline;
+  padding: 1rem;
 }
 
 /*
